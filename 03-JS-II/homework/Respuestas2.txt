@@ -1,0 +1,3 @@
+Respuestas 2
+For: Es un bucle que nos permite correr el código en bucle hasta que se cumple una condición  ya sea que devuelve lo que estamos buscando o o se detiene después de cierto tiempo.
+&&, ||, !: Los tres son operadores lógicos que nos sirven para combinar dos expresiones y comparar si alguna es verdadera, las dos son verdaderas o ninguna lo es. && significa AND, || Significa OR y ! signifca NOT.
