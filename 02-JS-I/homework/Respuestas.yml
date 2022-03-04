@@ -1,0 +1,6 @@
+Respuestas.
+Variables: Una variable es una forma de almacenar información para utilizarla luego cuando sea necesario, una variable se crea con la palabra clave var.
+Strings: Los strings son hilos de caracteres o bloques de textos que se presentan siempre entre "".
+Funciones: Las funciones son objetos que nos permiten agrupar código y ejecutarlo, nos sirven para calcular, cambiar las variables. La función return nos sirve para que el intérprete nos devuelva un valor y es la única forma en que los datos salen de la función; por otro lado los argumentos son una parte de los comandos que puede estar presente o no. 
+Declariones if: O también llamadas control de flujo que son una forma de que nuestra función verifique si lo que yo estoy programando es true o false y dependiendo esto el código se seguirá ejecutando o no.
+Valores booleanos: Son valores provenientes del código binario en JS tenemos dos posibilidades True o False.
