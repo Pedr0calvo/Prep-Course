@@ -1,0 +1,2 @@
+Respuestas3
+Arrays: Los arrays o arreglos son lista de elementos a los que podemos acceder en cualquier momento. Para establecerlos se declara una variable y establecerla en [], dentro de los brackets podemos establecer números, strings o booleanos. Además dentro de un array podemos establecer bucles ya sea for o while.
