@@ -1,0 +1,6 @@
+Respuestas
+Objetos: Es una colección de datos, similar a los arreglos pero se diferencian con estos porque los objetos no tienen índices numéricos. Además en los objetos encontramos un nuevo concepto que son las keywords compuestas por un identificador y el valor que queremos guardar en esa key o clave.
+Propiedades: Una propiedad es una asociación entre un nombre o clave o key y un valor. Las podríamos entender como variales asociadas al objeto y es así que las propiedades definen las características del objeto.
+Métodos: Es una función la cual es propiedad de un objeto, es decir es una función asignada como propiedad de un objeto.
+Bucle for in: Es similar al bucle for pero la diferencia es que en los objetos no podemos usar una variable del número índice porque este no existe, para esto se crearon los bucles for in.
+Notación: La diferencia entre la dot notation y la brackets notation es que en la primera para llamar usamos el nombre del objeto, un punto y el nombre de la clave, pero por otra lado en la segunda notation es como llamar a un elemento de un arrray.
