@@ -1,0 +1,2 @@
+Respuestas
+Callback: Es la capacidad de pasar una función como argumento a otra función y esta callback se ejecuta dentro de esta otra función. Sintácticamente cuando paso la función paso la definición no la invoco por lo que no se utilizan las (). Podemos utilizar otros métodos además de los conocidos como .map, .reduce y .forEach.
