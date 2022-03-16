@@ -1,0 +1,3 @@
+Respuestas
+Prototype: Son la forma en que los objetos heredan características entre sí. Los métodos y propiedas son definidos en la propiedad prototype que reside en la función constructora del objeto.
+Constructors: Son plantillas que utilizamos para crear muchos objetos con métodos y propiedas similares. La función debe empezar con mayúscula y se utiliza la keyword new.
